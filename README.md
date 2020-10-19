@@ -1,4 +1,4 @@
-# Titanic-dataset-for-ML
+# Titanic dataset for ML
 
 This is the Titanic dataset from Kaggle used as an introduction to machine learning.
 
